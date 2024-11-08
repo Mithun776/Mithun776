@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **portfolio website**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mithun776?tab=repositories](https://github.com/Mithun776?tab=repositories)
 
